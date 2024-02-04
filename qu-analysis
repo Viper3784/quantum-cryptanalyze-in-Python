@@ -1,0 +1,7 @@
+def quantum_factor(n):
+    # This is a placeholder for a quantum algorithm.
+    # In reality, you would use a quantum computer to find the period of a function f(x) = a^x mod n.
+    # Once you have the period, you can find the factors of n.
+    return "This function should be implemented on a quantum computer."
+
+print(quantum_factor(15))
